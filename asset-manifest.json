@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-formularios/static/css/main.d208a0a2.chunk.css",
+    "main.js": "/react-formularios/static/js/main.9f85e330.chunk.js",
+    "main.js.map": "/react-formularios/static/js/main.9f85e330.chunk.js.map",
+    "runtime-main.js": "/react-formularios/static/js/runtime-main.4f744353.js",
+    "runtime-main.js.map": "/react-formularios/static/js/runtime-main.4f744353.js.map",
+    "static/js/2.125b1b18.chunk.js": "/react-formularios/static/js/2.125b1b18.chunk.js",
+    "static/js/2.125b1b18.chunk.js.map": "/react-formularios/static/js/2.125b1b18.chunk.js.map",
+    "index.html": "/react-formularios/index.html",
+    "precache-manifest.4423681213116b85172ecc6076bf7780.js": "/react-formularios/precache-manifest.4423681213116b85172ecc6076bf7780.js",
+    "service-worker.js": "/react-formularios/service-worker.js",
+    "static/css/main.d208a0a2.chunk.css.map": "/react-formularios/static/css/main.d208a0a2.chunk.css.map",
+    "static/js/2.125b1b18.chunk.js.LICENSE.txt": "/react-formularios/static/js/2.125b1b18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f744353.js",
+    "static/js/2.125b1b18.chunk.js",
+    "static/css/main.d208a0a2.chunk.css",
+    "static/js/main.9f85e330.chunk.js"
+  ]
+}
